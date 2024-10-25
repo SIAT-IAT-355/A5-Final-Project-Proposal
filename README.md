@@ -8,7 +8,7 @@ For this assignment, you will propose your final project, which can be done solo
 
 ## Instructions
 
-Your proposal must cover the following areas. **But don't overthink it; many details will change as you learn more about your project. You just need to make some decisions and do some digging for now**:
+Your proposal must cover the following areas. **But don't overthink it; this is a preliminary. Many details will change as you learn more about your project. You just need to make some decisions and do some digging for now**:
 
 ### 1. Topic
 The **topic** refers to the broad area or field that your project will focus on. This is the overarching theme or domain under which your specific visualizations will fall. We highly suggest choosing a topic that you are passionate about or one that you enjoy. Some possible areas to explore include:
