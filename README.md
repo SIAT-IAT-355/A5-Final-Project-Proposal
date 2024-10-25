@@ -8,7 +8,7 @@ For this assignment, you will propose your final project, which can be done solo
 
 ## Instructions
 
-Your proposal must cover the following areas. **But don't overthink it; this is a preliminary. Many details will change as you learn more about your project. You just need to make some decisions and do some digging for now**:
+Your proposal must cover the following areas. **But don't overthink it; this is just a preliminary. Many details will change as you learn more about your project. You just need to make some decisions and do some digging for now.**
 
 ### 1. Topic
 The **topic** refers to the broad area or field that your project will focus on. This is the overarching theme or domain under which your specific visualizations will fall. We highly suggest choosing a topic that you are passionate about or one that you enjoy. Some possible areas to explore include:
@@ -35,8 +35,8 @@ For example:
 
 Clearly describe the **subject** you will explore within your topic.
 
-### 3 Your goal
-As the designer/author of the visualization, what is your goal? Is it to communicate a message? Is it to solve a problem? Is it to improve some specific decision-making performance for something? Is it to get people to laugh? Think about and write about your goal to create the visualization. 
+### 3. Your Goal
+As the designer or author of the visualization, what is your goal? Is it to communicate a message? Is it to solve a problem? Is it to improve some specific decision-making performance for something? Is it to get people to laugh? Think about and write about your goal to create the visualization. 
 
 ### 4. Tasks
 Describe the tasks that your visualization will help users perform. What will your users be able to do with your visualizations? Refer to our tasks slides and the Munzner chapter. But some Examples include:
@@ -82,7 +82,7 @@ In this project, I will explore how superhero movies have performed at the globa
 
 The visualization will focus on movies produced by major studios such as Marvel Studios, Warner Bros (DC Comics), and others. Specific analysis will also be done to compare the success of individual franchises like *The Avengers*, *Batman*, and *Spider-Man*.
 
-### Goal: **I want to make a case for how superhero movies have overtaken the movie industry and have hurt other movie Genres**.
+### Goal: **I want to make a case for how superhero movies have overtaken the movie industry and have hurt other movie genres**.
 
 ### Tasks:
 1. **Track revenue trends**: The users will be able to observe how box office revenue for superhero movies has evolved over time.
