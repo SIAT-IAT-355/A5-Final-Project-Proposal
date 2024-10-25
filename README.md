@@ -8,10 +8,10 @@ For this assignment, you will propose your final project, which can be done solo
 
 ## Instructions
 
-Your proposal must cover the following areas:
+Your proposal must cover the following areas. **But don't overthink it; many details will change as you learn more about your project. You just need to make some decisions and do some digging for now**:
 
 ### 1. Topic
-The **topic** refers to the broad area or field that your project will focus on. This is the overarching theme or domain under which your specific visualizations will fall. Some possible areas to explore include:
+The **topic** refers to the broad area or field that your project will focus on. This is the overarching theme or domain under which your specific visualizations will fall. We highly suggest choosing a topic that you are passionate about or one that you enjoy. Some possible areas to explore include:
   - **Sports**: Analyze players' performances, team stats, or match outcomes.
   - **Health**: Visualize health trends, fitness data, or medical research outcomes.
   - **Entertainment**: Visualize trends in music, movies, gaming, or streaming services.
@@ -26,7 +26,7 @@ The **topic** refers to the broad area or field that your project will focus on.
 
 Provide a clear description of the **topic** you’ve chosen.
 
-### 2. Subject
+### 2 Subject
 The **subject** refers to the specific question, pattern, or phenomenon that you will analyze within your chosen topic. It narrows down your focus to the particular aspect you will be visualizing.
 
 For example:
@@ -35,13 +35,16 @@ For example:
 
 Clearly describe the **subject** you will explore within your topic.
 
-### 3. Tasks
-Describe the tasks that your visualization will help users perform. What will your users be able to do with your visualizations? Examples include:
+### 3 Your goal
+As the designer/author of the visualization, what is your goal? Is it to communicate a message? Is it to solve a problem? Is it to improve some specific decision-making performance for something? Is it to get people to laugh? Think about and write about your goal to create the visualization. 
+
+### 4. Tasks
+Describe the tasks that your visualization will help users perform. What will your users be able to do with your visualizations? Refer to our tasks slides and the Munzner chapter. But some Examples include:
 - Compare data (e.g., compare player performance across seasons).
 - Explore trends (e.g., track stock prices over time).
 - Identify patterns or outliers (e.g., find patterns in social media engagement).
 
-### 4. Target Audience
+### 5. Target Audience
 Who will use your visualization? Define your target users or audience. These could be:
 - **Experts** in the field (e.g., data scientists, sports analysts).
 - **Non-experts** (e.g., casual fans, general public).
@@ -50,13 +53,13 @@ Who will use your visualization? Define your target users or audience. These cou
 
 Clearly specify the target audience and why this group will benefit from your visualizations.
 
-### 5. Data Source & Description
-Describe the dataset(s) you plan to use for your project. Include:
+### 6. Data Source & Description
+Look for data sources. Describe the dataset(s) you plan to use for your project. Tell us what you looked for and what you couldn't find. Include:
 - **Data Source**: Where the data comes from (e.g., public datasets, APIs).
 - **Data Columns**: Key columns and data types.
 - **Description**: What each column represents and why this data is relevant to your project.
 
-If you don’t have a dataset yet, explain how you plan to find or collect it.
+If you don’t have a dataset yet, explain how you plan to find or collect it. Explain what information you might need. 
 
 ---
 
