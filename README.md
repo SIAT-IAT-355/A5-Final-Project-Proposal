@@ -82,6 +82,8 @@ In this project, I will explore how superhero movies have performed at the globa
 
 The visualization will focus on movies produced by major studios such as Marvel Studios, Warner Bros (DC Comics), and others. Specific analysis will also be done to compare the success of individual franchises like *The Avengers*, *Batman*, and *Spider-Man*.
 
+### Goal: **I want to make a case for how superhero movies have overtaken the movie industry and have hurt other movie Genres**.
+
 ### Tasks:
 1. **Track revenue trends**: The users will be able to observe how box office revenue for superhero movies has evolved over time.
 2. **Compare franchises**: Users will be able to compare the performance of individual superhero franchises and identify which franchise dominates the box office.
