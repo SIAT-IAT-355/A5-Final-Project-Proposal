@@ -4,7 +4,7 @@
 
 ## Objective
 
-For this assignment, you will propose your final project, which can be done solo or in a group of two. Your proposal will include an outline of the project you intend to develop, the data you will use, your audience, and the tasks your project will help users perform. This assignment is designed to help you plan and organize your project effectively before implementation.
+For this assignment, you will propose your final project, which must be done in a group of three. Your proposal will include an outline of the project you intend to develop, the data you will use, your audience, and the tasks your project will help users perform. This assignment is designed to help you plan and organize your project effectively before implementation.
 
 ## Instructions
 
