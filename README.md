@@ -1,6 +1,6 @@
 # Assignment 5: Final Project Proposal
 
-**Due Date:** October 30st, 11:59 PM
+**Due Date:** March 11, 11:59 PM
 
 ## Objective
 
